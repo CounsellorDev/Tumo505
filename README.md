@@ -2,8 +2,6 @@
 <h3 align="center">DSC lead, Mobile Application Developer, Web Developer. Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tumo505" alt="tumo505" /> </p>
-
-  ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumo505&layout=compact&hide=html" alt="tumo505" /></p>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tumo505&show_icons=true" alt="tumo505" /></p>
 ---

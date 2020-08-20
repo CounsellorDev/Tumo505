@@ -6,7 +6,6 @@
   ---
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumo505&layout=compact&hide=html" alt="tumo505" /></p>
   ---
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tumo505&show_icons=true" alt="tumo505" /></p>
 ---
 
